@@ -1,0 +1,7 @@
+game_creation_data.type=GAMECONFIGFILE;
+game_creation_data.numberCommonTasks=1;
+game_creation_data.numberShortTasks=2;
+game_creation_data.numberLongTasks=1;
+game_creation_data.taskBarUpdates=ALWAYS;
+
+game_creation_data.killCoolDown=15;

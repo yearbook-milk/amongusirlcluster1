@@ -1,0 +1,7 @@
+player_4.type=PLAYER;
+player_4.status=ALIVE;
+player_4.nickname=(No Nickname);
+player_4.lastKill=1;
+player_4.hasAttachedUser=FALSE;
+player_4.role=CREWMATE;
+player_4.tasks[]=enteridcode:Go to the main door and enter your ID code.,unclogpipes:Unclog the pipe in the upstairs utility room.,unclogpipes:Unclog the pipe in the upstairs utility room.,fuel:Go to the sink and fill up the fuel jug. Then scan the QR code for next instructions.;

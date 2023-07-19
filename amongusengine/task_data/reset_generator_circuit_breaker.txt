@@ -1,0 +1,6 @@
+reset_generator_circuit_breaker.<type>=TASK;
+reset_generator_circuit_breaker.long=FALSE;
+reset_generator_circuit_breaker.common=FALSE;
+reset_generator_circuit_breaker.first_task=FALSE;
+reset_generator_circuit_breaker.taskID=reset_generator_circuit_breaker;
+reset_generator_circuit_breaker.taskDetail=Go to the generator room and reset the generator.;

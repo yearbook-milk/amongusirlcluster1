@@ -1,0 +1,6 @@
+lights.<type>=TASK;
+lights.long=FALSE;
+lights.common=FALSE;
+lights.first_task=TRUE;
+lights.taskID=lights;
+lights.taskDetail=Replace the lightbulbs in [PLACE ROOM HERE MICHAEL];

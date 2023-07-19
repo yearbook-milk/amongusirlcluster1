@@ -1,0 +1,6 @@
+repairac_1.<type>=TASK;
+repairac_1.long=TRUE;
+repairac_1.common=FALSE;
+repairac_1.first_task=TRUE;
+repairac_1.taskID=repairac_1;
+repairac_1.taskDetail=Go outside and fix the broken air handler unit. Then scan the QR code for further instructions.;

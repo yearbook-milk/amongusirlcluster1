@@ -1,0 +1,6 @@
+radiocheck.<type>=TASK;
+radiocheck.long=TRUE;
+radiocheck.common=FALSE;
+radiocheck.first_task=TRUE;
+radiocheck.taskID=radiocheck;
+radiocheck.taskDetail=Test the radios at each of the EMERGENCY SHUTDOWN stations. They need to work in an emergency. This task requires two people to work at the same time.;

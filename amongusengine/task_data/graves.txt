@@ -1,0 +1,6 @@
+graves.<type>=TASK;
+graves.long=FALSE;
+graves.common=FALSE;
+graves.first_task=FALSE;
+graves.taskID=graves;
+graves.taskDetail=Create a gravestone decoration or other keepsakes to honor recently deceased.;

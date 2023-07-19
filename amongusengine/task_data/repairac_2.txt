@@ -1,0 +1,6 @@
+repairac_2.<type>=TASK;
+repairac_2.long=TRUE;
+repairac_2.common=FALSE;
+repairac_2.first_task=FALSE;
+repairac_2.taskID=repairac_2;
+repairac_2.taskDetail=Go to the basement and turn the air handler unit back on.

@@ -1,0 +1,6 @@
+fuel2.<type>=TASK;
+fuel2.long=TRUE;
+fuel2.common=FALSE;
+fuel2.first_task=FALSE;
+fuel2.taskID=fuel2;
+fuel2.taskDetail=Go to the fuel receptacle in the garage and fill that up with the jug.;

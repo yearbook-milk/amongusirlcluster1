@@ -1,0 +1,7 @@
+player_5.type=PLAYER;
+player_5.status=ALIVE;
+player_5.nickname=(No Nickname);
+player_5.lastKill=1;
+player_5.hasAttachedUser=FALSE;
+player_5.role=IMPOSTOR;
+player_5.tasks[]=;

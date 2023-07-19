@@ -1,0 +1,7 @@
+player_3.type=PLAYER;
+player_3.status=ALIVE;
+player_3.nickname=(No Nickname);
+player_3.lastKill=1;
+player_3.hasAttachedUser=FALSE;
+player_3.role=CREWMATE;
+player_3.tasks[]=enteridcode:Go to the main door and enter your ID code.,mop:Mop the floors in the kitchen.,mop:Mop the floors in the kitchen.,fuel:Go to the sink and fill up the fuel jug. Then scan the QR code for next instructions.;

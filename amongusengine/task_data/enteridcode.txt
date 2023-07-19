@@ -1,0 +1,6 @@
+enteridcode.<type>=TASK;
+enteridcode.long=FALSE;
+enteridcode.common=TRUE;
+enteridcode.first_task=TRUE;
+enteridcode.taskID=enteridcode;
+enteridcode.taskDetail=Go to the main door and enter your ID code.;

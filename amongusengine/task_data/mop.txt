@@ -1,0 +1,6 @@
+mop.<type>=TASK;
+mop.long=FALSE;
+mop.common=FALSE;
+mop.first_task=TRUE;
+mop.taskID=mop;
+mop.taskDetail=Mop the floors in the kitchen.;

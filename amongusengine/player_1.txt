@@ -1,0 +1,7 @@
+player_1.type=PLAYER;
+player_1.status=ALIVE;
+player_1.nickname=(No Nickname);
+player_1.lastKill=1;
+player_1.hasAttachedUser=FALSE;
+player_1.role=CREWMATE;
+player_1.tasks[]=enteridcode:Go to the main door and enter your ID code.,trash:Take out the trash from the kitchen trash can then take it to the front yard. The QR code to complete the task is there.,lights:Replace the lightbulbs in [PLACE ROOM HERE MICHAEL],fuel:Go to the sink and fill up the fuel jug. Then scan the QR code for next instructions.;

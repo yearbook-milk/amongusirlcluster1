@@ -1,0 +1,7 @@
+player_2.type=PLAYER;
+player_2.status=ALIVE;
+player_2.nickname=(No Nickname);
+player_2.lastKill=1;
+player_2.hasAttachedUser=FALSE;
+player_2.role=CREWMATE;
+player_2.tasks[]=enteridcode:Go to the main door and enter your ID code.,lights:Replace the lightbulbs in [PLACE ROOM HERE MICHAEL],unclogpipes:Unclog the pipe in the upstairs utility room.,radiocheck:Test the radios at each of the EMERGENCY SHUTDOWN stations. They need to work in an emergency. This task requires two people to work at the same time.;

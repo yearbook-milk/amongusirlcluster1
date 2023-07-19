@@ -1,0 +1,6 @@
+healthcheck.<type>=TASK;
+healthcheck.long=FALSE;
+healthcheck.common=TRUE;
+healthcheck.first_task=TRUE;
+healthcheck.taskID=healthcheck;
+healthcheck.taskDetail=Go to the bedroom and complete a health screening. Follow the instructions there.;

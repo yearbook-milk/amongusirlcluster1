@@ -1,0 +1,5 @@
+__administrator.type=PROP;
+__administrator.status=ALIVE;
+__administrator.role=PROP;
+__administrator.tasks[]=;
+__administrator.lastKill=1688880931;

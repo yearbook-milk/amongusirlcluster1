@@ -1,0 +1,6 @@
+trash.<type>=TASK;
+trash.long=FALSE;
+trash.common=FALSE;
+trash.first_task=TRUE;
+trash.taskID=trash;
+trash.taskDetail=Take out the trash from the kitchen trash can then take it to the front yard. The QR code to complete the task is there.;

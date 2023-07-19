@@ -1,0 +1,5 @@
+__emergencybutton.type=PROP;
+__emergencybutton.status=ALIVE;
+__emergencybutton.role=PROP;
+__emergencybutton.tasks[]=;
+__emergencybutton.lastKill=1673158694;

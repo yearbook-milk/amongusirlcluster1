@@ -1,0 +1,6 @@
+hydrate.<type>=TASK;
+hydrate.long=FALSE;
+hydrate.common=TRUE;
+hydrate.first_task=TRUE;
+hydrate.taskID=hydrate;
+hydrate.taskDetail=Go hydrate or die straight.;

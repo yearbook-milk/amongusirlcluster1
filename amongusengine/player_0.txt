@@ -1,0 +1,7 @@
+player_0.type=PLAYER;
+player_0.status=ALIVE;
+player_0.nickname=(No Nickname);
+player_0.lastKill=1;
+player_0.hasAttachedUser=FALSE;
+player_0.role=CREWMATE;
+player_0.tasks[]=enteridcode:Go to the main door and enter your ID code.,mop:Mop the floors in the kitchen.,lights:Replace the lightbulbs in [PLACE ROOM HERE MICHAEL],fuel:Go to the sink and fill up the fuel jug. Then scan the QR code for next instructions.;

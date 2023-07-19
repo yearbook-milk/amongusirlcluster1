@@ -1,0 +1,15 @@
+game.type=LIVEGAMEDATA;
+game.status=LIVE;
+game.sabotageState=FALSE;
+game.sabotageName=None;
+game.sabotageStartTime=1;
+game.sabotageInstructions=None;
+game.tasksDone=0;
+game.totalTasks=20;
+game.taskBarUpdates=ALWAYS;
+game.crewmateNumber=5;
+game.impostorNumber=1;
+game.playerArray[]=player_0,player_1,player_2,player_3,player_4,player_5;
+game.killCoolDown=15;
+game.emergencyMeetingState=FALSE;
+game.emergencyMeetingCaller=None;

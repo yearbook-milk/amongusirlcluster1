@@ -1,0 +1,6 @@
+fuel.<type>=TASK;
+fuel.long=TRUE;
+fuel.common=FALSE;
+fuel.first_task=TRUE;
+fuel.taskID=fuel;
+fuel.taskDetail=Go to the sink and fill up the fuel jug. Then scan the QR code for next instructions.;

@@ -1,0 +1,6 @@
+unclogpipes.<type>=TASK;
+unclogpipes.long=FALSE;
+unclogpipes.common=FALSE;
+unclogpipes.first_task=TRUE;
+unclogpipes.taskID=unclogpipes;
+unclogpipes.taskDetail=Unclog the pipe in the upstairs utility room.;

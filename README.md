@@ -1,1 +1,1 @@
-michael you owe me $10
+Cloud component of Among Us In Real Life, a PHP-based web app that allows a group of players to simulate various Among Us gameplay elements (tasks, sabotages, killing, etc.) with software. This project was made specifically to be work with most PHP hosting providers, in that all you have to do is place all of the above files into a directory and access __panel.php to start configuring the game. 
